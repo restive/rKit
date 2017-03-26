@@ -1,5 +1,5 @@
 <p align="center" style="padding-bottom: 20px;"><a href="http://rkit.io" target="_blank"><img height="100" src="https://cdn.restive.io/img/logo_rkit_github.png"></a></p>
-
+<p>&nbsp;</p>
 
 **rKit is a JavaScript-assisted CSS toolkit for building better websites**.
 
