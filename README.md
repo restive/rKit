@@ -5,4 +5,4 @@
 
 By bridging the gap between CSS and JavaScript, rKit lets you write CSS that puts JavaScript to work, and you don't even have to be a coding ninja. It has a really friendly and easy-to-learn syntax, and is also extremely extensible.  
 
-**Coming April 2017**. Click the *watch* button above to stay in the loop.
+**Coming June 2017**. Click the *watch* button above to stay in the loop.
